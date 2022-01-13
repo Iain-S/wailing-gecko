@@ -1,6 +1,8 @@
 {
   "wailing_gecko": {
     "Overview": "/",
-    "Does it matter what I call my module?": "core.html"
+    "Does it matter what I call my module?": "core.html",
+    "define_a": "define_a_function.html",
+    "use_a_function": "use_a_function.html"
   }
 }

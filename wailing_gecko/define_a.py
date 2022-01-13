@@ -6,6 +6,7 @@ __all__ = ['double_it', 'halve_it']
 def double_it(it):
     return it * 2
 
+
 # export
 def halve_it(it):
     return it / 2

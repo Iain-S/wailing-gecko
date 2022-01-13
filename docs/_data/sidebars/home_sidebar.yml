@@ -12,6 +12,12 @@ entries:
     - output: web,pdf
       title: Does it matter what I call my module?
       url: core.html
+    - output: web,pdf
+      title: define_a
+      url: define_a_function.html
+    - output: web,pdf
+      title: use_a_function
+      url: use_a_function.html
     output: web
     title: wailing_gecko
   output: web

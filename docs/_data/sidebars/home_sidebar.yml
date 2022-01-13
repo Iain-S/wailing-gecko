@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Does it matter what I call my module?
       url: core.html
     output: web
     title: wailing_gecko

@@ -2,9 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"say_hello": "00_core.ipynb",
+         "double_it": "define_a_function.ipynb",
+         "halve_it": "define_a_function.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "define_a.py"]
 
 doc_url = "https://Iain-S.github.io/wailing_gecko/"
 
